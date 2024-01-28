@@ -1,1 +1,1 @@
-# salesforce-dataViews-collection
+# sfmc-py
